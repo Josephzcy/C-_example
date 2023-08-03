@@ -1,3 +1,0 @@
-/home/windboy/workspace/cpp_example/build/CMakeFiles/constexpr_node.dir
-/home/windboy/workspace/cpp_example/build/CMakeFiles/edit_cache.dir
-/home/windboy/workspace/cpp_example/build/CMakeFiles/rebuild_cache.dir

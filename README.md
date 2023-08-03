@@ -1,2 +1,2 @@
-# C-_example
+# cpp_example
 this is my C++ code example repository
